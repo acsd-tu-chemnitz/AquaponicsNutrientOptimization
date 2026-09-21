@@ -1,5 +1,5 @@
 # Aquaponics Nutrient Optimization
-=======================
+
 
 A framework for optimizing fish feed and nutrient profiles in recirculating aquaculture systems (RAS) to enhance drainage water reuse in hydroponics, created by the 
 [Automatic Control & System Dynamics Lab](https://www.tu-chemnitz.de/etit/control/index.php.en "ACSD Lab") 
