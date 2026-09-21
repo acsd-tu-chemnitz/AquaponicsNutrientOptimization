@@ -1,0 +1,58 @@
+﻿Species:,,African Catfish
+,,
+IAFFD Code,Ingredient,Inclusion (%)
+10012,"Fish meal, herring, 70% CP",3
+20003,"Blood meal, whole, spray-dried",4
+23002,"Poultry by-product meal, feed-grade, 60% CP",7.27
+30307,"Cassava, tuber, meal",6
+30505,"Distillers dried grains with solubles, DDGS",10
+30907,"Rapeseed/Canola meal, solvent extracted, 39% CP",9.44
+30944,"Rice, broken",5.84
+30937,Rice bran,2.27
+31269,"Soybean meal, USA, dehulled, Standard, 47% CP",36
+31610,"Wheat, flour",10
+50116,"Fish oil, sardine, Pacific-California",0.37
+52117,Soybean oil,3.78
+60107,"Vitamin premix, USSEC standard, fish grower, 0.5%",0.5
+61111,DL-Methionine,0.05
+62106,"Mineral premix, USSEC Standard, fish, 0.25%",0.25
+62132,"Mono calcium phosphate, MCP, Ca(H2PO4)2.H2O",1.14
+70146,"BHT, powder, 0.1%",0.1
+,,
+Nutrient,Unit,Value
+Dry Matter,%,90.69
+Crude Protein,%,35.74
+Crude Lipid,%,7.67
+Crude Fibre,%,4.11
+Ash,%,7.04
+NFE,%,36.13
+Starch,%,17.00
+Dig CP -fish,%,31.85
+DE Fish Carni MJ,MJ/kg,14.08
+DE Fish Carni kcal,kcal/kg,3372
+Arginine,%,2.36
+Histidine,%,1.02
+Isoleucine,%,1.47
+Leucine,%,2.84
+Lysine,%,2.10
+Methionine,%,0.67
+Phenylalanine,%,1.82
+Threonine,%,1.40
+Tryptophan,%,0.41
+Valine,%,1.97
+Cystine,%,0.57
+Tyrosine,%,1.29
+Taurine,%,0.04
+Linoleic 18:2 n-6,%,0.39
+EPA 20:5 n-3,%,0.09
+DHA 22:6 n-3,%,0.06
+EPA+DHA,%,0.15
+Sum_n_3,%,0.60
+Linolenic 18:3 n-3,%,3.15
+Arachidonic 20:4 n-6,%,0.01
+Sum n-6,%,3.51
+Phospholipids,%,0.50
+Cholesterol,mg,353.42
+Calcium,%,0.95
+Phosphorus,%,1.16
+Digestible P,%,0.69

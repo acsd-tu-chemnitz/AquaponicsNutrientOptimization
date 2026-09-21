@@ -1,0 +1,109 @@
+Species,Production System,Stage/Weight,Target Moisture Level,,
+African Catfish,General,200-500g (Grower),10%,,
+,,,,,
+Code,Specification,Short Name,Unit,Restriction Type,Value
+PA02,Moisture,H2O,%,Minimum,10
+PA03,Crude  Protein,CP,%,Minimum,34
+PA04,Crude Lipids,LIPID,%,Minimum,8
+PA05,Crude Fibre,CF,%,Maximum,7
+PA06,Ash,ASH,%,Maximum,
+PA07,NFE,NFE,%,Maximum,
+PA08,NDF,NDF,%,Maximum,
+PA09,ADF,ADF,%,Maximum,
+PA11,Starch,STARC,%,Minimum,18
+ED01,DE Fish Carni,,kcal,Minimum,3313
+ED02,DE Fish Omni,,kcal,Minimum,
+ED03,DE Carp,,kcal,Minimum,
+ED04,DE Shrimp,,kcal,Minimum,
+ADPXF02,Dig CP -fish,DP,%,Minimum,30
+ADPXF04,Dig GE (DE) - fish,DE kcal,kcal,Minimum,3342
+ADPXF09,DP/DE  (g/MJ),DP/DE J,g/MJ,Ratio,21.8
+ADPXF10,DP/DE (g/kcal),DP/DE C,g/kcal,Ratio,
+AA01,Arginine,ARG,%,Minimum,1.79
+AA02,Histidine,HIS,%,Minimum,0.79
+AA03,Isoleucine,ILE,%,Minimum,1.24
+AA04,Leucine,LEU,%,Minimum,2.39
+AA05,Lysine,LYS,%,Minimum,2.06
+AA06,Methionine,MET,%,Minimum,0.80
+AA07,Phenylalanine,PHE,%,Minimum,1.27
+AA08,Threonine,THR,%,Minimum,1.24
+AA09,Tryptophan,TRP,%,Minimum,0.30
+AA10,Valine,VAL,%,Minimum,1.51
+AA11,Cysteine,CYS,%,Minimum,
+AA12,TSAA (Met+Cys),SAA,%,Minimum,1.08
+AA13,Tyrosine,TYR,%,Minimum,
+AA14,Phe+Tyr,PHE+TYR,%,Minimum,2.20
+AA20,Sum EAAs,,%,Minimum,
+AA23,Taurine,TAU,%,Minimum,
+ADAAF01,Dig Arg - fish,DARG,%,Minimum,1.60
+ADAAF02,Dig His - fish,DHIS,%,Minimum,0.70
+ADAAF03,Dig Ile - fish,DILE,%,Minimum,1.10
+ADAAF04,Dig Leu - fish,DLEU,%,Minimum,2.13
+ADAAF05,Dig Lys - fish,DLYS,%,Minimum,1.83
+ADAAF06,Dig Met - fish,DMET,%,Minimum,0.71
+ADAAF07,Dig Phe - fish,DPHE,%,Minimum,1.13
+ADAAF08,Dig Thr - fish,DTHR,%,Minimum,1.10
+ADAAF09,Dig Trp - fish,DTRP,%,Minimum,0.26
+ADAAF10,Dig Val - fish,DVAL,%,Minimum,1.35
+ADAAF12,Dig TSAA (Met+Cys),DSAA,%,Minimum,
+FA05,Linolenic 18:3 n-3,ALA,%,Minimum,
+FA07,EPA 20:5 n-3,EPA,%,Minimum,
+FA08,DHA 22:6 n-3,DHA,%,Minimum,
+FA081,EPA+DHA,EPA+DHA,%,Minimum,0.25
+FA12,Sum n-3,N3FA,%,Minimum,0.25
+FA04,Linoleic 18:2 n-6,LA,%,Minimum,
+FA06,Arachidonic 20:4 n-6,ARA,%,Minimum,
+FA13,Sum n-6,N6FA,%,Minimum,0.5
+FA14,Phospholipids,PLS,%,Minimum,0.9
+FA15,Cholesterol,CHOL,mg,Minimum,
+M01,Calcium,Ca,%,Minimum,
+M02,Phosphorus,P,%,Minimum,0.86
+M0271,Dig P Carni,DPHCARNI,%,Minimum,0.47
+M0272,Dig P Omni,DPHOMNI,%,Minimum,
+M0273,Dig P Carp,DPHCARP,%,Minimum,
+M0274,Dig P Shrimp,DPHCRU,%,Minimum,
+M03,Sodium,Na,%,Minimum,0.07
+M04,Chlorine,Cl,%,Minimum,0.07
+M03_1,Sodium,Na,%,Maximum,0.15
+M04_1,Chlorine,Cl,%,Maximum,0.15
+M05,Potassium,K,%,Minimum,0.42
+M06,Magnesium,Mg,%,Minimum,0.06
+M08,Copper,Cu,mg,Minimum,6.8
+M09,Iron,Fe,mg,Minimum,86
+M10,Manganese,Mn,mg,Minimum,9.5
+M11,Selenium,Se,mg,Minimum,0.14
+M12,Zinc,Zn,mg,Minimum,37
+M13,Iodine,I,mg,Minimum,1.84
+V09,Vitamin C,C,mg,Minimum,100
+V01,Biotin-B7,BIOTN,mg,Minimum,0.40
+V02,Folic acid-B9,FOL,mg,Minimum,1.0
+V03,Niacin-B3,NIA,mg,Minimum,26
+V04,Pantothenic Acid-B5,B5,mg,Minimum,15
+V05,Pyridoxine-B6,B6,mg,Minimum,10
+V06,Riboflavin-B2,B2,mg,Minimum,6.0
+V07,Thiamin-B1,B1,mg,Minimum,1.0
+V08,Vitamin B12,B12,mg,Minimum,0.01
+V10,Vitamin A,A,mg,Minimum,1.80
+V11,Vitamin D,D,ug,Minimum,10
+V12,Vitamin E,E,mg,Minimum,150
+V13,Vitamin K,K,mg,Minimum,3.0
+V14,Choline,CHOLN,mg,Minimum,1000
+V15,Inositol,INOS,mg,Minimum,150
+TX01,Aflatoxin B,AFLB,ppb,Maximum,10
+TX02,Deoxynivalenol (DON),DON,ppb,Maximum,2000
+TX03,Zeralenone (ZON),ZER,ppb,Maximum,1000
+TX04,Fumonisin (FUM),FUM,ppb,Maximum,5000
+TX05,Anti-trypsic factors,ATF,mg,Maximum,24000
+TX06,Gossypol,GOS,mg,Maximum,284
+TX07,Phytic Acid,PHY,g,Maximum,7.4
+TX08,Glucosinolates,GLSNT,mmol,Maximum,3.9
+TX09,Sinapine,SINAP,mg,Maximum,4137
+TX10,Tannins,TANN,mg_eq_cathin,Maximum,7119
+TX11,Lectins,LECTI,mg,Maximum,1034
+TX12,Cyanogens,CYANG,mg,Maximum,21
+TX13,PCBs,PCB,ngWHOTEQ,Maximum,2.4
+TX14,Dioxins,DXN,ngWHOTEQ,Maximum,1.2
+TX15,Soyasaponins,SSAP,mg,Maximum,3103
+TX16,Isoflavones,ISOFLV,mg,Maximum,3103
+E01,Price in USD/kg,Price,USD,Maximum,1.000
+E02,Global warming - Including LUC & Peat (kg CO2eq/t),GW, kg, Maximum, 1000
