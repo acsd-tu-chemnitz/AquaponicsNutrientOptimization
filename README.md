@@ -16,13 +16,13 @@ The framework features three distinct programs:
 
 The organization of different nutrient sources, including dissolved fish excretions, base inputs, and freshwater, is performed via steady-state optimization ($\dot{x} = 0$) of a nonlinear system of ordinary differential equations $\dot{x} = f(x,u)$. The optimization is formulated as a mixed-binary static optimization problem:
 
-$$\begin{align}
+$$\begin{align*}
 \min_{x \in \mathbb{R}^n, u \in \mathbb{R}^m, z \in \mathbb{Z}^o}\ & J(x,u,z), \\
 \text{s.t.}\ & f(x,u) = 0, \\
 & g_L \le g(x,u,z) \le g_U, \\
 & u_L \le u \le u_U, \\
 & 0 \le z \le 1.
-\end{align}$$
+\end{align*}$$
 
 The optimization problem features two main objectives:
 
@@ -40,11 +40,11 @@ Implementation
 
 The framework is fully implemented in MATLAB (R2024a). Required dependencies include:
 * **CasADi** (v3.6.6) with the built-in nonlinear programming (NLP) solver **IPOPT** (fully open-access)
-* **Gurobi** (v11.0.3) mixed-integer solver (free for academic use)
+* **Gurobi** (v11.0.3) mixed-integer solver (free only for academic use)
 
 Future Work
 --------------
-Upcoming updates will extend the codebase with:
+Pending resources, future updates might explore:
 * Multi-scenario optimization for more robust system design
 * Tailoring calculated RAS effluent nutrient profiles to specific crop types in the hydroponics unit
 * A user-friendly graphical interface (GUI)
